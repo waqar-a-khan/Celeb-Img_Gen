@@ -28,6 +28,7 @@ Ensure `checkpoint.pth` is placed in the same directory as `gan_web_deployment.p
 ```bash
 !wget -O checkpoint.pth YOUR_MODEL_URL
 ```
+🔗 **Pre-trained Model URL:** [Download checkpoint.pth]([(https://drive.google.com/file/d/1eXittKO4jnpUzcdd5f5Z99VmKumEjgI7/view?usp=drive_link))]
 
 ### **4️⃣ Run the Web App Locally**
 ```bash
