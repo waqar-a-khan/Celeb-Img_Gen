@@ -96,7 +96,7 @@ Open this URL in your browser to access the Streamlit app!
 ## **💡 Example Output**
 
 After clicking **"Generate Image"**, the app will generate and display **16 AI-generated faces** like this:
-![Generated Image](fake_samples_epoch_50.png)
+![Generated Image](im2.png)
 
 ---
 
